@@ -166,3 +166,37 @@ body {
  text-align: center;
 }
 /* Read me end  */
+
+/* Form start */
+.form{
+  width: 50%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.form p{
+  text-align: left;
+  font-size: 35px;
+}
+
+.form a{
+  text-decoration: none;
+  color: white;
+  background: #8d2011;
+  border: none;
+  padding: 16px 30px 16px 30px;
+  border-radius: 5px;
+  font: inherit;
+  float: left;
+}
+
+.form input,
+.form label,
+.form textarea{
+  font-family: 'VT323', monospace;
+  font-size: 30px;
+  text-align: left;
+  border: 4px solid #000;
+}
+
+/* Form end */
